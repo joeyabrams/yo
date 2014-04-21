@@ -1,6 +1,8 @@
 class CMonster
 {
-	public:	
+	public:
+		int health;
+		int damage;	
 		CMonster();
 
 

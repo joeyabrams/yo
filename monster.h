@@ -1,0 +1,9 @@
+class CMonster
+{
+	public:	
+		CMonster();
+
+
+
+};
+
